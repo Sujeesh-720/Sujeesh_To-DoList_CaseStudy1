@@ -1,0 +1,25 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.myMargin{
+    margin: 25px;
+}
+
+body{
+
+    background-size: cover;
+}
+.pass{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;  
+    border: 0px;  
+    box-shadow: aqua;
+}
+.main{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#table{
+    margin: 25px;
+}
